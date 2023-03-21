@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">navegacion y login</string>
+
+    <string name="Login_Title">App de consulta</string>
+    <string name="Sub_Title">App Personal</string>
+    <string name="Text_Legal1">Al usar esta aplicacion esta aceptando nuetras</string>
+    <string name="Text_Legal2">terminos de servicio</string>
+    <string name="Text_Legal3">y</string>
+    <string name="Text_Legal4">nuestra politica de privacidad</string>
+    <string name="Login_cta">Login Google</string>
+
+</resources>
